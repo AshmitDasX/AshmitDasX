@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/AshmitDasX/AshmitDasX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/AshmitDasX/AshmitDasX/blob/3f73281a4eb689ec53ea2273f465445f57b0cb34/assets/208593.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/AshmitDasX/AshmitDasX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/AshmitDasX/AshmitDasX/blob/3f73281a4eb689ec53ea2273f465445f57b0cb34/assets/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
